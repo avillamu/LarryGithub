@@ -1,3 +1,3 @@
-Chao, Esta serie de libros cuentan la historia de un hacker excepcional.
+Esta serie de libros cuentan la historia de un hacker excepcional.
 
-**Adriana Villalobos Murillo**
+**Adriana Villalobos Murillo**, Larry Plotter & Git Fan
