@@ -1,3 +1,3 @@
-Esta serie de libros cuentan la historia de un hacker excepcional.
+Chao, Esta serie de libros cuentan la historia de un hacker excepcional.
 
 **Adriana Villalobos Murillo**
